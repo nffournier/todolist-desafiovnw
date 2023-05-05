@@ -1,2 +1,2 @@
 # todolist-desafiovnw
-Created with CodeSandbox
+Todo List criada usando React. 
